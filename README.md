@@ -2,7 +2,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Senal Punsara 
 I am a dedicated, team player passionate about solving problems through innovative and efficient programming solutions. I am eager to enhance my skills and knowledge by exploring new technologies and techniques.
 
-<a href="http://www.github.com/Senal-Punsara"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Senal-Punsara&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ## 👩‍💻 About Me
 
