@@ -16,4 +16,4 @@ I am a dedicated, team player passionate about solving problems through innovati
 
 ## 📬 Get in Touch
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)
+![LinkedIn](https://www.linkedin.com/in/senal-punsara-6740941a5/) ![Gmail](kksenalpunsara@gmail.com)  ![Stack Overflow]([https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white](https://stackoverflow.com/users/13257653/senal-punsara))
