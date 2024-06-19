@@ -6,7 +6,7 @@ I am a dedicated, team player passionate about solving problems through innovati
 ## 👩‍💻 About Me
 
 - 🎓 Software Engineering Undergraduate at the University of Colombo School of Computing.
-- 🌱 Interested in Web Development and Cyber Security.
+- 🌱 Interested in Software Engineering, Full-Stack Development and Cyber Security.
 
 
 ## 🛠 Tech Stack
