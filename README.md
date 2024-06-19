@@ -7,6 +7,7 @@ I am a dedicated, team player passionate about solving problems through innovati
 
 - 🎓 Software Engineering Undergraduate at the University of Colombo School of Computing.
 - 🌱 Interested in Software Engineering, Full-Stack Development and Cyber Security.
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/senal-punsara?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 ## 🛠 Tech Stack
