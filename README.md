@@ -1,6 +1,6 @@
 
 # Hi There! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-![](https://komarev.com/ghpvc/?username=senal-punsara&color=blue)
+![](https://komarev.com/ghpvc/?username=senal-punsara&color=blue)\n
 I am a dedicated, team player passionate about solving problems through innovative and efficient programming solutions. I am eager to enhance my skills and knowledge by exploring new technologies and techniques.
 
 
